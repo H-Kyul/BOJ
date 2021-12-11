@@ -1,5 +1,5 @@
-# BOJ
-백준 알고리즘 문제 풀이
+# BAEKJOON Online Judge
+백준 알고리즘 문제 풀이 with Python
 
 ## Bronze
 [Bronze 1]
