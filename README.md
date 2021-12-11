@@ -12,6 +12,6 @@
 ## Silver
 [Silver 4]
 - [백준 2108번 : 통계학](https://github.com/H-Kyul/BOJ/blob/main/silver4/2108_%ED%86%B5%EA%B3%84%ED%95%99.py)
-- [백준 10828번 : 스택] [[1]](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D.py) [[2]](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D_%ED%92%80%EC%9D%B42.py)
+- [백준 10828번 : 스택](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D.py) [[풀이2]](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D_%ED%92%80%EC%9D%B42.py)
 - [백준 10773번 : 제로](https://github.com/H-Kyul/BOJ/blob/main/silver4/10773_%EC%A0%9C%EB%A1%9C.py)
 - [백준 11866번 : 요세푸스 문제 0](https://github.com/H-Kyul/BOJ/blob/main/silver4/11866_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EB%AC%B8%EC%A0%9C_0.py)
