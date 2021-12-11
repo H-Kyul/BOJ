@@ -1,4 +1,4 @@
-[https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png]
+<img src= "https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png">
 
 # BAEKJOON Online Judge
 백준 알고리즘 문제 풀이 with Python
