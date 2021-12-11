@@ -26,6 +26,8 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 10828번 : 스택](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D.py) / [풀이2](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D_%ED%92%80%EC%9D%B42.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 10773번 : 제로](https://github.com/H-Kyul/BOJ/blob/main/silver4/10773_%EC%A0%9C%EB%A1%9C.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 11866번 : 요세푸스 문제 0](https://github.com/H-Kyul/BOJ/blob/main/silver4/11866_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EB%AC%B8%EC%A0%9C_0.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 1978번 : 소수 찾기](https://github.com/H-Kyul/BOJ/blob/main/silver4/1978_%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.py)
+
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1316번 : 그룹단어체크](https://github.com/H-Kyul/BOJ/blob/main/silver5/1316_%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%ED%81%AC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1427번 : 소트인사이드](https://github.com/H-Kyul/BOJ/blob/main/silver5/1427_%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 11650번 : 좌표정렬하기](https://github.com/H-Kyul/BOJ/blob/main/silver5/11650_%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
@@ -33,4 +35,5 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 10814번 : 나이순 정렬](https://github.com/H-Kyul/BOJ/blob/main/silver5/10814_%EB%82%98%EC%9D%B4%EC%88%9C%EC%A0%95%EB%A0%AC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1181번 : 단어 정렬](https://github.com/H-Kyul/BOJ/blob/main/silver5/1181_%EB%8B%A8%EC%96%B4%EC%A0%95%EB%A0%AC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 2751번 : 수 정렬하기 2](https://github.com/H-Kyul/BOJ/blob/main/silver5/2751_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
-- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 10989번 수 정렬하기 3](https://github.com/H-Kyul/BOJ/blob/main/silver5/10989_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 10989번 : 수 정렬하기 3](https://github.com/H-Kyul/BOJ/blob/main/silver5/10989_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 2581번 : 소수](https://github.com/H-Kyul/BOJ/blob/main/silver5/2581_%EC%86%8C%EC%88%98.py)
