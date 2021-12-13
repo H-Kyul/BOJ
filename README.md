@@ -12,6 +12,7 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 10870번 : 피보나치 수 5](https://github.com/H-Kyul/BOJ/blob/main/bronze2/10870_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%985.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 2798번 : 블랙잭](https://github.com/H-Kyul/BOJ/blob/main/bronze2/2798_%EB%B8%94%EB%9E%99%EC%9E%AD.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 10872번 : 팩토리얼](https://github.com/H-Kyul/BOJ/blob/main/bronze3/10872_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 4153번 직각삼각형](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/4153_%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="12"> [백준 1712번 : 손익분기점](https://github.com/H-Kyul/BOJ/blob/main/bronze4/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 10757번 : 큰 수 A+B](https://github.com/H-Kyul/BOJ/blob/main/bronze5/10757_%ED%81%B0%EC%88%98A%2BB.py)
 
