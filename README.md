@@ -25,7 +25,7 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 15651번 : N과 M(3)](https://github.com/H-Kyul/BOJ/blob/main/silver3/15651_N%EA%B3%BCM_3.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 15652번 : N과 M(4)](https://github.com/H-Kyul/BOJ/blob/main/silver3/15652_N%EA%B3%BCM_4.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 1874번 : 스택 수열](https://github.com/Hankyul-k/BOJ/blob/main/silver3/1874_%EC%8A%A4%ED%83%9D%EC%88%98%EC%97%B4.py)
-- - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 2606번 : 바이러스](https://github.com/Hankyul-k/BOJ/blob/main/silver3/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 2606번 : 바이러스](https://github.com/Hankyul-k/BOJ/blob/main/silver3/2606_%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4.py)
 
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 2108번 : 통계학](https://github.com/H-Kyul/BOJ/blob/main/silver4/2108_%ED%86%B5%EA%B3%84%ED%95%99.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 10828번 : 스택](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D.py) / [풀이2](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D_%ED%92%80%EC%9D%B42.py)
