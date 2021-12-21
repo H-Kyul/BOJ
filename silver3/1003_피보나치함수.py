@@ -1,5 +1,16 @@
+# 제출 답안 
 
-# 실패 - 시간초과(16%까지 채점)
+import sys
+N = int(sys.stdin.readline())
+cases = list(int(sys.stdin.readline()) for _ in range(N))
+fibo = [[1,0],[0,1]] + [[0,0] for _ in range (max(cases)-1)]
+for i in range(2,max(cases)+1):
+    fibo[i] = [x+y for x,y in zip(fibo[i-2],fibo[i-1])]
+for case in cases:
+    print(*fibo[case],sep=' ')
+    
+    
+# 실패 - 시간초과(16%까지 채점) 
 import sys
 def fibonacci(N,cnt):
     if N == 0:
