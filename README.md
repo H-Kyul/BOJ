@@ -5,8 +5,11 @@
 <br/>
 <br/>
 
-
+<!-- ## gold
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="12"> [백준 1753번 : 최단경로](https://github.com/Hankyul-k/BOJ/blob/main/gold5/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)
+ -->
 ## Silver
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [백준 2667번 : 단지번호붙이기](https://github.com/Hankyul-k/BOJ/blob/main/silver1/2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 18870번 : 좌표 압축](https://github.com/H-Kyul/BOJ/blob/main/silver2/18870_%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1929번 : 소수 구하기](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1929_%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1260번 : DFS와 BFS](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1260_DFS%EC%99%80_BFS.py)
@@ -53,3 +56,6 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 4153번 : 직각삼각형](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/4153_%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="12"> [백준 1712번 : 손익분기점](https://github.com/H-Kyul/BOJ/blob/main/bronze4/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 10757번 : 큰 수 A+B](https://github.com/H-Kyul/BOJ/blob/main/bronze5/10757_%ED%81%B0%EC%88%98A%2BB.py)
+
+
+
