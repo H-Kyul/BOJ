@@ -44,11 +44,11 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1181번 : 단어 정렬](https://github.com/H-Kyul/BOJ/blob/main/silver5/1181_%EB%8B%A8%EC%96%B4%EC%A0%95%EB%A0%AC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 2751번 : 수 정렬하기 2](https://github.com/H-Kyul/BOJ/blob/main/silver5/2751_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B02.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 10989번 : 수 정렬하기 3](https://github.com/H-Kyul/BOJ/blob/main/silver5/10989_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B03.py)
-- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="11"> [백준 2581번 : 소수](https://github.com/H-Kyul/BOJ/blob/main/silver5/2581_%EC%86%8C%EC%88%98.py)
-- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="11"> [백준 11653번 : 소인수분해](https://github.com/Hankyul-k/BOJ/blob/main/silver5/11653_%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.py)
-- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="11"> [백준 1037번 : 약수](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1037_%EC%95%BD%EC%88%98.py)
-- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="11"> [백준 1934번 : 최소공배수](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1934_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
-- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="11"> [백준 2609번 : 최대공약수와 최소공배수](https://github.com/Hankyul-k/BOJ/blob/main/silver5/2609_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 2581번 : 소수](https://github.com/H-Kyul/BOJ/blob/main/silver5/2581_%EC%86%8C%EC%88%98.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 11653번 : 소인수분해](https://github.com/Hankyul-k/BOJ/blob/main/silver5/11653_%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1037번 : 약수](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1037_%EC%95%BD%EC%88%98.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1934번 : 최소공배수](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1934_%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 2609번 : 최대공약수와 최소공배수](https://github.com/Hankyul-k/BOJ/blob/main/silver5/2609_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
 
 
 ## Bronze
