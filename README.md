@@ -77,7 +77,7 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="12"> [백준 1712번 : 손익분기점](https://github.com/H-Kyul/BOJ/blob/main/bronze4/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 10757번 : 큰 수 A+B](https://github.com/H-Kyul/BOJ/blob/main/bronze5/10757_%ED%81%B0%EC%88%98A%2BB.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 2338번 : 긴자리 계산](https://github.com/Hankyul-k/BOJ/blob/main/bronze5/2338_%EA%B8%B4%EC%9E%90%EB%A6%AC%EA%B3%84%EC%82%B0.py)
-- - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 1550번 : 16진수](https://github.com/Hankyul-k/BOJ/blob/main/bronze5/1550_16%EC%A7%84%EC%88%98.py)
-- - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 1271번 :엄청난 부자2](https://github.com/Hankyul-k/BOJ/blob/main/bronze5/1271_%EC%97%84%EC%B2%AD%EB%82%9C%EB%B6%80%EC%9E%902.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 1550번 : 16진수](https://github.com/Hankyul-k/BOJ/blob/main/bronze5/1550_16%EC%A7%84%EC%88%98.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 1271번 :엄청난 부자2](https://github.com/Hankyul-k/BOJ/blob/main/bronze5/1271_%EC%97%84%EC%B2%AD%EB%82%9C%EB%B6%80%EC%9E%902.py)
 
 
