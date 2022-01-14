@@ -84,7 +84,7 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 2231번 : 분해합](https://github.com/Hankyul-k/BOJ/blob/main/bronze2/2231_%EB%B6%84%ED%95%B4%ED%95%A9.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 2775번 : 부녀회장이 될테야](https://github.com/Hankyul-k/BOJ/blob/main/bronze2/2775_%EB%B6%80%EB%85%80%ED%9A%8C%EC%9E%A5%EC%9D%B4%EB%90%A0%ED%85%8C%EC%95%BC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 1076번 : 저항](https://github.com/Hankyul-k/BOJ/blob/main/bronze2/1076_%EC%A0%80%ED%95%AD.py)
-- - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 2309번 : 일곱 난쟁이](https://github.com/Hankyul-k/BOJ/blob/main/bronze2/2309_%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 2309번 : 일곱 난쟁이](https://github.com/Hankyul-k/BOJ/blob/main/bronze2/2309_%EC%9D%BC%EA%B3%B1%EB%82%9C%EC%9F%81%EC%9D%B4.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 10872번 : 팩토리얼](https://github.com/H-Kyul/BOJ/blob/main/bronze3/10872_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 4153번 : 직각삼각형](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/4153_%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 5086번 : 배수와 약수](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/5086_%EB%B0%B0%EC%88%98%EC%99%80%EC%95%BD%EC%88%98.py)
