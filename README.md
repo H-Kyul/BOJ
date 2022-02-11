@@ -3,13 +3,17 @@
 <!-- # BAEKJOON Online Judge -->
 백준 알고리즘 문제 풀이 with Python
 
-추가적인 풀이과정 설명은 블로그에 올리고 있습니다:-) 📌 [KL's notebook](https://kkwor1d.tistory.com)
+추가적인 풀이과정 설명은 블로그 📌 [KL's notebook](https://kkwor1d.tistory.com)
 <br/>
 <br/>
 
-<!-- ## gold
+## gold
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/14.svg" width="12"> [백준 9370번 : 미확인 도착지](https://github.com/Hankyul-k/BOJ/blob/main/gold2/9370_%EB%AF%B8%ED%99%95%EC%9D%B8%EB%8F%84%EC%B0%A9%EC%A7%80.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/13.svg" width="12"> [백준 1918번 : 후위 표기식](https://github.com/Hankyul-k/BOJ/blob/main/gold3/1918_%ED%9B%84%EC%9C%84%ED%91%9C%EA%B8%B0%EC%8B%9D.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" width="12"> [백준 1504번 : 특정한 최단 경로](https://github.com/Hankyul-k/BOJ/blob/main/gold4/1504_%ED%8A%B9%EC%A0%95%ED%95%9C%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="12"> [백준 1753번 : 최단경로](https://github.com/Hankyul-k/BOJ/blob/main/gold5/1753_%EC%B5%9C%EB%8B%A8%EA%B2%BD%EB%A1%9C.py)
- -->
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" width="12"> [백준 7576번 : 토마토](https://github.com/Hankyul-k/BOJ/blob/main/gold5/7576_%ED%86%A0%EB%A7%88%ED%86%A0.py)
+
 ## Silver
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [백준 2667번 : 단지번호붙이기](https://github.com/Hankyul-k/BOJ/blob/main/silver1/2667_%EB%8B%A8%EC%A7%80%EB%B2%88%ED%98%B8%EB%B6%99%EC%9D%B4%EA%B8%B0)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [백준 1927번 : 최소힙](https://github.com/Hankyul-k/BOJ/blob/main/silver1/1927_%EC%B5%9C%EC%86%8C%ED%9E%99.py)
@@ -18,6 +22,7 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [백준 9020번 : 골드바흐의 추측](https://github.com/Hankyul-k/BOJ/blob/main/silver1/9020_%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%EC%B6%94%EC%B8%A1.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [백준 1259번 : 팰린드롬수](https://github.com/Hankyul-k/BOJ/blob/main/silver1/1259_%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%88%98.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [백준 11286번 : 절댓값 힙](https://github.com/Hankyul-k/BOJ/blob/main/silver1/11286_%EC%A0%88%EB%8C%93%EA%B0%92%ED%9E%99.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" width="12"> [백준 2156번 : 포도주 시식](https://github.com/Hankyul-k/BOJ/blob/main/silver1/2156_%ED%8F%AC%EB%8F%84%EC%A3%BC%EC%8B%9C%EC%8B%9D.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 18870번 : 좌표 압축](https://github.com/H-Kyul/BOJ/blob/main/silver2/18870_%EC%A2%8C%ED%91%9C%EC%95%95%EC%B6%95.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1929번 : 소수 구하기](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1929_%EC%86%8C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1260번 : DFS와 BFS](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1260_DFS%EC%99%80_BFS.py)
@@ -26,6 +31,11 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 11279번 : 최대 힙](https://github.com/Hankyul-k/BOJ/blob/main/silver2/11279_%EC%B5%9C%EB%8C%80%ED%9E%99.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 4948번 : 베르트랑 공준](https://github.com/Hankyul-k/BOJ/blob/main/silver2/4948_%EB%B2%A0%EB%A5%B4%ED%8A%B8%EB%9E%91%EA%B3%B5%EC%A4%80.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1012번 : 유기농 배추](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1012_%EC%9C%A0%EA%B8%B0%EB%86%8D%EB%B0%B0%EC%B6%94.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1713번 : 후보 추천하기](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1713_%ED%9B%84%EB%B3%B4%EC%B6%94%EC%B2%9C%ED%95%98%EA%B8%B0.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 7562번 : 나이트의 이동](https://github.com/Hankyul-k/BOJ/blob/main/silver2/7562_%EB%82%98%EC%9D%B4%ED%8A%B8%EC%9D%98%EC%9D%B4%EB%8F%99.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1912번 : 연속합 ](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1912_%EC%97%B0%EC%86%8D%ED%95%A9.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 1182번 : 부분수열의 합](https://github.com/Hankyul-k/BOJ/blob/main/silver2/1182_%EB%B6%80%EB%B6%84%EC%88%98%EC%97%B4%EC%9D%98%ED%95%A9.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" width="12"> [백준 11724번 : 연결 요소의 개수](https://github.com/Hankyul-k/BOJ/blob/main/silver2/11724_%EC%97%B0%EA%B2%B0%EC%9A%94%EC%86%8C%EC%9D%98%EA%B0%9C%EC%88%98.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 15649번 : N과 M(1)](https://github.com/H-Kyul/BOJ/blob/main/silver3/15649_N%EA%B3%BCM_1.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 15650번 : N과 M(2)](https://github.com/H-Kyul/BOJ/blob/main/silver3/15650_N%EA%B3%BCM_2.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 15651번 : N과 M(3)](https://github.com/H-Kyul/BOJ/blob/main/silver3/15651_N%EA%B3%BCM_3.py)
@@ -41,6 +51,7 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 11726번 : 2xN 타일링](https://github.com/Hankyul-k/BOJ/blob/main/silver3/11726_2xN%ED%83%80%EC%9D%BC%EB%A7%81.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 9095번 : 1, 2, 3 더하기](https://github.com/Hankyul-k/BOJ/blob/main/silver3/9095_123%EB%8D%94%ED%95%98%EA%B8%B0.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 11659번 : 구간 합 구하기 4](https://github.com/Hankyul-k/BOJ/blob/main/silver3/11659_%EA%B5%AC%EA%B0%84%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B04.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" width="12"> [백준 2512번 : 예산](https://github.com/Hankyul-k/BOJ/blob/main/silver3/2512_%EC%98%88%EC%82%B0.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 2108번 : 통계학](https://github.com/H-Kyul/BOJ/blob/main/silver4/2108_%ED%86%B5%EA%B3%84%ED%95%99.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 10828번 : 스택](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D.py) / [풀이2](https://github.com/H-Kyul/BOJ/blob/main/silver4/10828_%EC%8A%A4%ED%83%9D_%ED%92%80%EC%9D%B42.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 11866번 : 요세푸스 문제 0](https://github.com/H-Kyul/BOJ/blob/main/silver4/11866_%EC%9A%94%EC%84%B8%ED%91%B8%EC%8A%A4%EB%AC%B8%EC%A0%9C_0.py)
@@ -54,6 +65,8 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 10866번 : 덱](https://github.com/Hankyul-k/BOJ/blob/main/silver4/10866_%EB%8D%B1.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 2164번 : 카드2](https://github.com/Hankyul-k/BOJ/blob/main/silver4/2164_%EC%B9%B4%EB%93%9C2.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 1764번 : 듣보잡](https://github.com/Hankyul-k/BOJ/blob/main/silver4/1764_%EB%93%A3%EB%B3%B4%EC%9E%A1.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 1676번 : 팩토리얼 0의 개수](https://github.com/Hankyul-k/BOJ/blob/main/silver4/1676_%ED%8C%A9%ED%86%A0%EB%A6%AC%EC%96%BC0%EC%9D%98%EA%B0%9C%EC%88%98.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" width="12"> [백준 1021번 : 회전하는 큐](https://github.com/Hankyul-k/BOJ/blob/main/silver4/1021_%ED%9A%8C%EC%A0%84%ED%95%98%EB%8A%94%ED%81%90.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1316번 : 그룹단어체크](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1316_%EA%B7%B8%EB%A3%B9%EB%8B%A8%EC%96%B4%EC%B2%B4%ED%81%AC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1427번 : 소트인사이드](https://github.com/H-Kyul/BOJ/blob/main/silver5/1427_%EC%86%8C%ED%8A%B8%EC%9D%B8%EC%82%AC%EC%9D%B4%EB%93%9C.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 11650번 : 좌표정렬하기](https://github.com/H-Kyul/BOJ/blob/main/silver5/11650_%EC%A2%8C%ED%91%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py)
@@ -69,6 +82,11 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 2609번 : 최대공약수와 최소공배수](https://github.com/Hankyul-k/BOJ/blob/main/silver5/2609_%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 24039번 : 2021은 무엇이 특별할까?](https://github.com/Hankyul-k/BOJ/blob/main/silver5/24039_2021%EC%9D%80%EB%AC%B4%EC%97%87%EC%9D%B4%ED%8A%B9%EB%B3%84%ED%95%A0%EA%B9%8C.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1436번 : 영화감독 숌](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1436_%EC%98%81%ED%99%94%EA%B0%90%EB%8F%85%EC%88%8C.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 4396번 : 지뢰 찾기](https://github.com/Hankyul-k/BOJ/blob/main/silver5/4396_%EC%A7%80%EB%A2%B0%EC%B0%BE%EA%B8%B0.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1789번 : 수들의 합](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1789_%EC%88%98%EB%93%A4%EC%9D%98%ED%95%A9.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 4796번 : 캠핑](https://github.com/Hankyul-k/BOJ/blob/main/silver5/4796_%EC%BA%A0%ED%95%91.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 1439번 : 뒤집기](https://github.com/Hankyul-k/BOJ/blob/main/silver5/1439_%EB%92%A4%EC%A7%91%EA%B8%B0.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" width="12"> [백준 10610번 : 30](https://github.com/Hankyul-k/BOJ/blob/main/silver5/10610_30.py)
 
 ## Bronze
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="12"> [백준 2750번 : 수정렬하기](https://github.com/H-Kyul/BOJ/blob/main/bronze1/2750_%EC%88%98%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0.py) 
@@ -78,6 +96,8 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="12"> [백준 1110번 : 더하기 사이클](https://github.com/Hankyul-k/BOJ/blob/main/bronze1/1110_%EB%8D%94%ED%95%98%EA%B8%B0%EC%82%AC%EC%9D%B4%ED%81%B4.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="12"> [백준 1193번 : 분수찾기](https://github.com/Hankyul-k/BOJ/blob/main/bronze1/1193_%EB%B6%84%EC%88%98%EC%B0%BE%EA%B8%B0.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="12"> [백준 2748번 : 피보나치 수 2](https://github.com/Hankyul-k/BOJ/blob/main/bronze1/2748_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%982.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="12"> [백준 2740번 : 행렬 곱셈](https://github.com/Hankyul-k/BOJ/blob/main/bronze1/2740_%ED%96%89%EB%A0%AC%EA%B3%B1%EC%85%88.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" width="12"> [백준 11719번 : 그대로 출력하기 2](https://github.com/Hankyul-k/BOJ/blob/main/bronze1/11719_%EA%B7%B8%EB%8C%80%EB%A1%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B02.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 10870번 : 피보나치 수 5](https://github.com/H-Kyul/BOJ/blob/main/bronze2/10870_%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%EC%88%985.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 2798번 : 블랙잭](https://github.com/H-Kyul/BOJ/blob/main/bronze2/2798_%EB%B8%94%EB%9E%99%EC%9E%AD.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" width="12"> [백준 1152번 : 단어의 개수](https://github.com/Hankyul-k/BOJ/blob/main/bronze2/1152_%EB%8B%A8%EC%96%B4%EC%9D%98%EA%B0%9C%EC%88%98.py)
@@ -92,6 +112,7 @@
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 10250번 : ACM호텔](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/10250_ACM%ED%98%B8%ED%85%94.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 1009번 : 분산처리](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/1009_%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 3009번 : 네 번째 점](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/3009_%EB%84%A4%EB%B2%88%EC%A7%B8%EC%A0%90.py)
+- <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" width="12"> [백준 11718번 : 그대로 출력하기](https://github.com/Hankyul-k/BOJ/blob/main/bronze3/11718_%EA%B7%B8%EB%8C%80%EB%A1%9C%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/2.svg" width="12"> [백준 1712번 : 손익분기점](https://github.com/H-Kyul/BOJ/blob/main/bronze4/1712_%EC%86%90%EC%9D%B5%EB%B6%84%EA%B8%B0%EC%A0%90.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 10757번 : 큰 수 A+B](https://github.com/H-Kyul/BOJ/blob/main/bronze5/10757_%ED%81%B0%EC%88%98A%2BB.py)
 - <img src= "https://d2gd6pc034wcta.cloudfront.net/tier/1.svg" width="12"> [백준 2338번 : 긴자리 계산](https://github.com/Hankyul-k/BOJ/blob/main/bronze5/2338_%EA%B8%B4%EC%9E%90%EB%A6%AC%EA%B3%84%EC%82%B0.py)
