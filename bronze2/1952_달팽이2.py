@@ -2,8 +2,15 @@
 https://www.acmicpc.net/problem/1952
 '''
 
-# 제출 답안
+# 제출 답안 2 - 규칙
+import sys
 
+m,n = map(int,sys.stdin.readline().split())
+if m>n: print(n*2-1)
+else: print(m*2-2)
+
+    
+# 제출 답안 1 - 배열 따라가며 찾기
 import sys
 m,n = map(int,sys.stdin.readline().split())
 arr = [[0]*n for _ in range(m)]
